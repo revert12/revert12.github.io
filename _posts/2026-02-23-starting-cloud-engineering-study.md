@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "클라우드 엔지니어링 스터디를 시작하며"
-date: 2024-02-23 22:30:00 +0900
+date: 2026-02-23 22:00:00 +0900
 categories: [Cloud Engineering, Study]
 tags: [Introduction, Study]
 ---
